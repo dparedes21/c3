@@ -1,0 +1,88 @@
+.title {
+  text-align: center;
+  color: white;
+  font-size: 35px;
+
+}
+body{
+  align-items: center;
+  margin-left: 20px;
+}
+
+
+.container{
+padding: 40px;
+}
+
+.btn {
+  border: white;
+  background-color: #cdf4fa;
+  padding: 15px 10px;
+  font-size: 25px;
+  cursor: pointer;
+  display: inline-block;
+  color: white;
+  border-radius: 12px;
+  position: absolute;
+  align-items:center;
+
+
+
+}
+ .btn:hover {
+  background-color: pink; /* Green */
+  color: white;
+}
+
+  body {
+   background-image: url("https://static1.squarespace.com/static/548b12f8e4b03faeb7e12f42/5c1008f140ec9afe8edf178f/5c100d1470a6ad3a9b10b786/1544555830139/Screen+Shot+2018-12-11+at+1.06.34+PM.png?format=2500w");
+ }
+
+
+ /* .UCD {
+   border: white;
+   background-color: #cdf4fa;
+   padding: 25px 20px;
+   font-size: 25px;
+   cursor: pointer;
+   display: inline-block;
+   color: white;
+   border-radius: 12px;
+   position: absolute;
+   /* top: 75%;
+   left: 43%;
+ }
+
+ .UCD:hover {
+  background-color: pink;
+  color: white;
+}
+
+.UCI {
+  border: white;
+  background-color: #cdf4fa;
+  padding: 25px 20px;
+  font-size: 25px;
+  cursor: pointer;
+  display: inline-block;
+  color: white;
+  border-radius: 12px;
+  position: absolute;
+  /* top: 75%;
+  left: 76%; */
+/*
+.UCI:hover {
+ background-color: pink; /* Green */
+
+img{
+  padding-bottom:20px;
+
+}
+
+/*
+div.LA {
+  position: fixed;
+  bottom: 70;
+  right: 40;
+  width: 100%;
+} */
